@@ -1,6 +1,7 @@
 ## 기존 맵 파일 최신화 방법
 
 1. 스튜디오를 실행하고 Blank 맵을 생성해주세요.
+![10](https://user-images.githubusercontent.com/121915047/210483426-3bd118ac-3a6a-46ac-ada7-d4bec1afd123.png)
 
 ![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d13dc44f-4543-4818-afa3-097f50ed8c71/Untitled.png)
 
