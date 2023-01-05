@@ -2,21 +2,21 @@
 description: M8 스크립트 변경점 메뉴얼이에요~
 ---
 
-# M8 스크립트 변경점55
+# M8 스크립트 변경점6
 
 ## 기존 맵 파일 최신화 방법
 
 1. 스튜디오를 실행하고 Blank 맵을 생성해주세요.
 
-<img src=".Assets/Manual_Gitbook_20230105(1).png" alt="">
+ <img src=".Assets/Manual_Gitbook_20230105(1).png" alt="">
 
 2. Blank 맵에서 아래와 같은 오브젝트들을 선택한 뒤, 복사해주세요. **( Ctrl + C )**
 
-<img src=".Assets/Manual_Gitbook_20230105(2).png" alt="">
+ <img src=".Assets/Manual_Gitbook_20230105(2).png" alt="">
 
 3. 이전 버전에서 작업했던 맵 파일을 열어주세요.
 
-<figure><img src=".Assets/Manual_Gitbook_20230105(3).png" alt=""><figcaption></figcaption></figure>
+ <figure><img src=".Assets/Manual_Gitbook_20230105(3).png" alt=""><figcaption></figcaption></figure>
 
 
 
