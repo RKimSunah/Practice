@@ -2,31 +2,31 @@
 
 1. 스튜디오를 실행하고 Blank 맵을 생성해주세요.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d13dc44f-4543-4818-afa3-097f50ed8c71/Untitled.png)
+    <figure><img src=".Assets/Manual_Gitbook_20230105(1).png" alt=""><figcaption></figcaption></figure>
 
 2. Blank 맵에서 아래와 같은 오브젝트들을 선택한 뒤, 복사해주세요. **( Ctrl + C )**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/28fd5345-6cc6-4e13-898a-b049fcb90751/Untitled.png)
+    <figure><img src=".Assets/Manual_Gitbook_20230105(2).png" alt=""><figcaption></figcaption></figure>
 
 3. 이전 버전에서 작업했던 맵 파일을 열어주세요.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b1789edf-268e-4890-816c-42cb62db791d/Untitled.png)
+    <figure><img src=".Assets/Manual_Gitbook_20230105(3).png" alt=""><figcaption></figcaption></figure>
 
 4. Blank 맵에서 복사한 오브젝트들을 붙여넣기 해주세요. **( Ctrl + V )**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5f46a588-aa05-4c3c-8e37-9d85b18fdf65/Untitled.png)
+    <figure><img src=".Assets/Manual_Gitbook_20230105(4).png" alt=""><figcaption></figcaption></figure>
 
 5. **기존에 있던 스크립트**를 확인 후, **새로 붙여넣기 한 스크립트**에 옮겨야 하는 부분이 있다면 적용해주세요.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a7e0a9b3-94bd-473f-b52e-a7b96bea1c2d/Untitled.png)
+    <figure><img src=".Assets/Manual_Gitbook_20230105(5).png" alt=""><figcaption></figcaption></figure>
 
 6. 모두 적용했다면, **기존에 있던 스크립트**를 삭제해주세요.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/92ada6fd-66ea-4410-abd7-1c132e3a760d/Untitled.png)
+    <figure><img src=".Assets/Manual_Gitbook_20230105(6).png" alt=""><figcaption></figcaption></figure>
 
 7. **새로 붙여넣기 한 스크립트**의 위치를 아래와 같이 수정해주세요.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5f8d9ba7-4c7e-496d-987a-589482cda7cd/Untitled.png)
+    <figure><img src=".Assets/Manual_Gitbook_20230105(7).png" alt=""><figcaption></figcaption></figure>
 
 ---
 
@@ -66,7 +66,7 @@
 
  
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f482171d-b011-48a9-bfa9-aef4c85b3e9c/Untitled.png)
+<figure><img src=".Assets/Manual_Gitbook_20230105(8).png" alt=""><figcaption></figcaption></figure>
 
 **게임 통계 데이터** 객체를 생성할 수 있는 함수가 추가되었어요. ✨
 
@@ -143,4 +143,4 @@
 
 자세한 활용 방법은 CrossJump 템플릿에 있는 리더보드 스크립트를 참고해주세요. 🐸
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/7723935d-8b27-4027-96e1-8ce92c4e9014/Untitled.png)
+<figure><img src=".Assets/Manual_Gitbook_20230105(9).png" alt=""><figcaption></figcaption></figure>
