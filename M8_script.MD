@@ -2,31 +2,31 @@
 description: M8 스크립트 변경점 메뉴얼이에요~
 ---
 
-# M8 스크립트 변경점6
+# M8 스크립트 변경점777
 
 ## 기존 맵 파일 최신화 방법
 
 1. 스튜디오를 실행하고 Blank 맵을 생성해주세요.
 
- <img src=".Assets/Manual_Gitbook_20230105(1).png" alt="">
+    <img src=".Assets/Manual_Gitbook_20230105(1).png" alt="">
 
 2. Blank 맵에서 아래와 같은 오브젝트들을 선택한 뒤, 복사해주세요. **( Ctrl + C )**
 
- <img src=".Assets/Manual_Gitbook_20230105(2).png" alt="">
+     <img src=".Assets/Manual_Gitbook_20230105(2).png" alt="">
 
 3. 이전 버전에서 작업했던 맵 파일을 열어주세요.
 
- <figure><img src=".Assets/Manual_Gitbook_20230105(3).png" alt=""><figcaption></figcaption></figure>
+     <figure><img src=".Assets/Manual_Gitbook_20230105(3).png" alt=""><figcaption></figcaption></figure>
 
 
 
 4. Blank 맵에서 복사한 오브젝트들을 붙여넣기 해주세요. **( Ctrl + V )**
 
-<figure><img src=".Assets/Manual_Gitbook_20230105(4).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".Assets/Manual_Gitbook_20230105(4).png" alt=""><figcaption></figcaption></figure>
 
 5. **기존에 있던 스크립트**를 확인 후, **새로 붙여넣기 한 스크립트**에 옮겨야 하는 부분이 있다면 적용해주세요.
 
-<figure><img src=".Assets/Manual_Gitbook_20230105(5).png" alt=""><figcaption></figcaption></figure>
+    <figure><img src=".Assets/Manual_Gitbook_20230105(5).png" alt=""><figcaption></figcaption></figure>
 
 6. 모두 적용했다면, **기존에 있던 스크립트**를 삭제해주세요.
 
