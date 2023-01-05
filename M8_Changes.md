@@ -2,7 +2,7 @@
 description: '123'
 ---
 
-# 0.9.0 Map Changes 변경사항123123123
+# 0.9.0 Map Changes 변경사항
 
 ## 기존 맵 파일 최신화 방법
 
