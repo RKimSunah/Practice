@@ -2,7 +2,7 @@
 description: M8 스크립트 변경점 메뉴얼이에요~
 ---
 
-# M8 스크립트 변경점777
+# M8 스크립트 변경점888
 
 ## 기존 맵 파일 최신화 방법
 
@@ -26,7 +26,7 @@ description: M8 스크립트 변경점 메뉴얼이에요~
 
 5. **기존에 있던 스크립트**를 확인 후, **새로 붙여넣기 한 스크립트**에 옮겨야 하는 부분이 있다면 적용해주세요.
 
-    <figure><img src=".Assets/Manual_Gitbook_20230105(5).png" alt=""><figcaption></figcaption></figure>
+<figure><img src=".Assets/Manual_Gitbook_20230105(5).png" alt=""><figcaption></figcaption></figure>
 
 6. 모두 적용했다면, **기존에 있던 스크립트**를 삭제해주세요.
 
